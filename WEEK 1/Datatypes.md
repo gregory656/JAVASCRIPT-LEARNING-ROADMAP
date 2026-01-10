@@ -225,7 +225,7 @@ typeof function(){} // function
 
 ---
 
-6️⃣ Value vs Reference (IMPORTANT 🔥)
+6️⃣ Value vs Reference (IMPORTANT )
 
 Primitive
 

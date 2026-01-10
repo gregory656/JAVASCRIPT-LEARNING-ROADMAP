@@ -76,7 +76,7 @@ Can be redeclared
 
 
 var x = 10;
-var x = 20; // No error 😬
+var x = 20; // No error 
 
 Avoid in modern JavaScript.
 
